@@ -1,3 +1,16 @@
+/* ProblemStatement:
+ Createastudentdatabaseofatleast5SEITstudents,eachhaving:
+ • RollNumber(Integer)
+ • Name(String)
+ • SGPA(Float)
+ Performthefollowingoperationsonthearrayofstructure:
+ a.Sortstudentsbyrollnumber(ascendingorder)usingBubbleSort.
+ b.SortstudentsalphabeticallybynameusingInsertionSort.
+ c.SortstudentsbySGPAindescendingorderusingQuickSorttogettop10toppers.
+ d.SearchforstudentsbySGPAusingLinearSearchanddisplayallmatches.
+ e.Searchforstudent(s)bynameusingnon-recursiveBinarySearch,displayallpartialmatches.
+ Hansal Kumar - 23308
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
