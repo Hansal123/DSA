@@ -1,6 +1,10 @@
-//Problem Statement - Efficient Data Management Using Linked Lists: Implementing Dynamic Operations for Contact Management System.
-//Using Singly Linked List
-//Hansal Kumar - 23308
+/*
+Name - Hansal Kumar
+Roll no. - 23308
+Problem Statement - Efficient Data Management Using Linked Lists: Implementing Dynamic Operations for Contact Management System.
+Using Singly Linked List
+*/
+
 #include<iostream>
 
 using namespace std;
