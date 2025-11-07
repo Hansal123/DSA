@@ -1,3 +1,7 @@
+ /* ProblemStatement:Implementaprogramtoconvertaninfixexpressiontoprefixandpostfix
+ notation.•Evaluatebothprefixandpostfixexpressions.UseSTLforimplementation.
+ Hansal Kumar - 23308
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
