@@ -1,6 +1,9 @@
-//Problem Statement - Efficient Data Management Using Linek Lists: Implementing Dynamic Operations for Contact Management system.
-//Using Doubly Linked lists
-//Hansal Kumar - 23308
+/*
+Name - Hansal Kumar
+Roll no - 23308
+Problem Statement - Efficient Data Management Using Linek Lists: Implementing Dynamic Operations for Contact Management system.
+Using Doubly Linked lists
+*/
 #include<iostream>
 using namespace std;
 
