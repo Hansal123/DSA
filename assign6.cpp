@@ -1,3 +1,10 @@
+*/
+Problem Statement:
+ Develop a hashing - based system for securely storing user credentials, where user  names act as keys
+ and hashed passwords as values .Implement and demonstrate collision handling using:
+ •Chaining(Array-basedcollisionresolution)
+ •OpenAddressing(LinearorQuadraticProbingwithoutchaining)
+*/
 #include <iostream>
 #include <string>
 using namespace std;
