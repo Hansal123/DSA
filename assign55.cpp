@@ -1,3 +1,15 @@
+/*
+Name - Hansal Kumar
+Roll no. - 23308
+Problem Statement:
+ Implementation of a PriorityQueue
+ • Develop a priority queue where elements are dequeued based on priority rather than
+ insertion order. 
+ • Support operations such as insertion,deletion,and display.
+ Implementation of a Double-Ended Queue(Deque)
+ • Implement a double-ended queue where insertion and deletion can happen from both ends.
+ • Support operations such as enqueue front , enqueue rear, deque front, dequeue rear.
+*/
 #include <iostream>
 using namespace std;
 
