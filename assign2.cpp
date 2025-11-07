@@ -1,9 +1,12 @@
-//Problem Statement:
-//"Implementing Queues and Stacks Using Linked Lists for Real-World Task Management Systems"
-//This program demonstrates:
-//1. Task Scheduling (Queue - FIFO)
-//2. Undo/Redo Functionality (Stack - LIFO)
-//Hansal Kumar - 23308
+/*
+Name - Hansl Kumar
+Roll no - 23308
+Problem Statement:
+"Implementing Queues and Stacks Using Linked Lists for Real-World Task Management Systems"
+This program demonstrates:
+1. Task Scheduling (Queue - FIFO)
+2. Undo/Redo Functionality (Stack - LIFO)
+*/
 
 
 #include <bits/stdc++.h>
