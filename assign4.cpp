@@ -1,7 +1,9 @@
- /* ProblemStatement:Implement a program to convert an infixexpression to prefix and postfix
+ /* 
+ Name - Hansal Kumar
+ Roll no - 23308
+ Problem Statement:Implement a program to convert an infixexpression to prefix and postfix
  notation.
  •Evaluate both prefix and postfix expressions. Use STL for implementation.
- Hansal Kumar - 23308
 */
 #include <bits/stdc++.h>
 using namespace std;
