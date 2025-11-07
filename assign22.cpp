@@ -1,9 +1,12 @@
-//Problem Statement:
-//"Implementing Queues and Stacks Using Linked Lists for Real-World Task Management Systems"
-//Application:
-//Undo/Redo Functionality (Stack) - Using LIFO (Last In First Out) approach.
-//For example: last performed task will be undone first.
-//Hansal Kumar - 23308
+/*
+Name - Hansal Kumar
+Roll no - 23308
+Problem Statement:
+"Implementing Queues and Stacks Using Linked Lists for Real-World Task Management Systems"
+Application:
+Undo/Redo Functionality (Stack) - Using LIFO (Last In First Out) approach.
+For example: last performed task will be undone first.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
